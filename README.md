@@ -7,7 +7,7 @@
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development and DSA**
 - 📫 Reach me at **aameenasana180705@gmail.com**
 - ⚡ Fun fact: **I'm extremely quiet in person lol**
 - 🦾 **Ask me anything about the latest trends**
