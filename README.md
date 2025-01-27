@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning **Web Development**
 - 📫 Reach me at **aameenasana180705@gmail.com**
-- ⚡ Fun fact: **I'm extremely funny lol**
+- ⚡ Fun fact: **I'm extremely quiet in person lol**
+- 🦾 **Ask me anything about the latest trends**
 
 ---
 
