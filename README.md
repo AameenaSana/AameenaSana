@@ -10,11 +10,11 @@
 - 🌱 I’m currently learning **Web Development and DSA**
 - 📫 Reach me at **aameenasana180705@gmail.com**
 - ⚡ Fun fact: **I'm extremely quiet in person lol**
-- 🦾 **Ask me anything about the latest trends**
+- 🦾 **Ask me anything about coding, DSA, or even random tech memes. Currently building cool stuff & leveling up. Let’s geek out!**
 
 ---
 
-### 📈 Development Graph
+### Development Graph
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aameenasana&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
