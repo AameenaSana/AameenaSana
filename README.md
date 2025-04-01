@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Web Development and DSA**
 - 📫 Reach me at **aameenasana180705@gmail.com**
 - ⚡ Fun fact: **I'm extremely quiet in person lol**
-- 🦾 **Ask me anything about coding, DSA, or even random tech memes. Currently building cool stuff & leveling up. Let’s geek out!**
+- 🦾 **Ask me anything about random tech memes**
 
 ---
 
