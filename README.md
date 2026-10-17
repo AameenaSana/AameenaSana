@@ -32,9 +32,14 @@
 
 ### Development Graph
 
+### Development Graph
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aameenasana&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=aameenasana&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aameenasana&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aameenasana&theme=react-dark&bg_color=141321&color=fe428e&line=a9fef7&point=f8d847&area=true&hide_border=false" alt="Contribution Graph" width="100%"/>
 </p>
 
 ---
