@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Aameena Sana M</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
-
 - 🔭 I’m currently building **FilingLens**, an AI-powered SEC filing intelligence platform
 - 🌱 I’m currently learning **Web Development and DSA**
 - 📫 Reach me at **aameenasana180705@gmail.com**
@@ -25,16 +23,14 @@
 
 ---
 
-### Development Graph
-
-### Development Graph
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aameenasana&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=aameenasana&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aameenasana&theme=react-dark&bg_color=141321&color=fe428e&line=a9fef7&point=f8d847&area=true&hide_border=false" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aameenasana&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 ---
