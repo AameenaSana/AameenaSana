@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Aameena Sana M</h1>
-<h3 align="center">A passionate Computer Science Engineer from India</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1500&color=FE428E&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hi%2C+I'm+Aameena+Sana+M;A+passionate+Computer+Science+Engineer" alt="Hi, I'm Aameena Sana M - A passionate Computer Science Engineer" />
+</p>
 
 - 🔭 I’m currently building **FilingLens**, an AI-powered SEC filing intelligence platform
 - 🌱 I’m currently learning **Web Development and DSA**
@@ -27,10 +28,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aameenasana&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aameenasana&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 ---
