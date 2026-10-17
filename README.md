@@ -1,17 +1,12 @@
 <h1 align="center">Hi, I'm Aameena Sana M</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aameenasana&label=Profile%20views&color=0e75b6&style=flat" alt="aameenasana" />
-</p>
-
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 - 🔭 I’m currently building **FilingLens**, an AI-powered SEC filing intelligence platform
 - 🌱 I’m currently learning **Web Development and DSA**
 - 📫 Reach me at **aameenasana180705@gmail.com**
 - ⚡ Fun fact: **I'm extremely quiet in person lol**
-- 🦾 **Ask me anything about random tech memes**
 
 ---
 
