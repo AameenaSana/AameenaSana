@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently building **FilingLens**, an AI-powered SEC filing intelligence platform
 - 🌱 I’m currently learning about **systems and how they work**
-- 📫 Reach me at **aameenasana180705@gmail.com**
+- 📫 Reach me at **aameenasana.work05@gmail.com**
 - ⚡ socially awkward but chronically online
 
 ---
