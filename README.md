@@ -3,9 +3,9 @@
 </p>
 
 - 🔭 I’m currently building **FilingLens**, an AI-powered SEC filing intelligence platform
-- 🌱 I’m currently learning **Web Development and DSA**
+- 🌱 I’m currently learning about **systems and how they work**
 - 📫 Reach me at **aameenasana180705@gmail.com**
-- ⚡ Fun fact: **I'm extremely quiet in person lol**
+- ⚡ socially awkward but chronically online
 
 ---
 
