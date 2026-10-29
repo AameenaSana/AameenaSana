@@ -34,11 +34,24 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/aameena-sana-m" target="blank">
+  <a href="https://linkedin.com/in/aameenasana" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:aameenasana180705@gmail.com" target="blank">
+  <a href="mailto:aameenasana.work05@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+### 📄 Resume
+
+<p align="center">
+  <a href="https://github.com/aameenasana/aameenasana/blob/main/Aameena_Sana_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_Resume-FE428E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View Resume"/>
+  </a>
+  <a href="https://github.com/aameenasana/aameenasana/raw/main/Aameena_Sana_Resume.pdf">
+    <img src="https://img.shields.io/badge/Download_PDF-1A1A2E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
   </a>
 </p>
 
